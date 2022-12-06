@@ -1265,7 +1265,6 @@ Page Heading Style
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  /* padding-top: 250px; */
   text-align: center;
   background-color: #2a2a2a;
 }
@@ -1996,8 +1995,7 @@ Create Page Style
 #contact {
   background-color: #37393c;
   border-radius: 5px;
-  /* padding: 60px 30px;
-  margin-bottom: 120px; */
+  
 }
 
 #contact input {
